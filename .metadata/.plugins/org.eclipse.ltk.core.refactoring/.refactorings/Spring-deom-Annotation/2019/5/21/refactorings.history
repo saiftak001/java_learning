@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;JavaBasedConfigApp.java&apos; to &apos;Spring-deom-Annotation/src/com.annotation.springDemo&apos;&#x0D;&#x0A;- Original project: &apos;Spring-deom-Annotation&apos;&#x0D;&#x0A;- Destination element: &apos;Spring-deom-Annotation/src/com.annotation.springDemo&apos;&#x0D;&#x0A;- Original element: &apos;com.annotation.springDemo.JavaBasedConfigApp.java&apos;" description="Copy compilation unit" destination="/src&lt;com.annotation.springDemo" element1="/src&lt;com.annotation.springDemo{JavaBasedConfigApp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1558237819440" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+package com.Unorganized.Defaults;
+
+public class TestTryCatch {
+	
+	public static void main(String[] args) {
+		try {
+			int save=1/0;
+		}
+		catch(ArithmeticException ar) {
+			ar.getMessage()
+		}
+		finally {
+			
+		}
+	}
+
+}

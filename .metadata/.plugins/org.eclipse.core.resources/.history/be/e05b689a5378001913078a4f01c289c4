@@ -1,0 +1,22 @@
+package com.annotation.springDemo;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class AnnotaionBasedApp {
+
+	public static void main(String[] args) {
+
+		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+
+		Coach tennisCoach = context.getBean("tennisCoach", TennisCoach.class);
+
+		System.out.println(tennisCoach.getCoachDetails());
+		
+		System.out.println(tennisCoach.getFortuneDetails());
+		
+		System.out.println(tennisCoach.getDataSource());
+		
+		System.out.println();
+	}
+
+}

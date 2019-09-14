@@ -1,0 +1,17 @@
+INDEX VERSION 1.4+C:\Users\stak\OneDrive - Altimetrik Corp\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+716432529.index
+3675231146.index
+1388797183.index
+2741010517.index
+238537108.index
+2271627155.index
+611137908.index
+2298581455.index
+3446202676.index
+3063429107.index
+3075624741.index
+3740802276.index
+989171484.index
+2138320008.index
+3617312122.index
+3019177737.index

@@ -1,0 +1,9 @@
+package com.Unorganized.Defaults;
+
+public class TestTryCatch {
+	
+	try {
+		
+	}
+
+}
